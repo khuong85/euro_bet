@@ -1,0 +1,17 @@
+.mb10{
+	margin-bottom: 10px;
+}
+.stage{
+	background-color: #252b63;
+	color: #fff;
+	font-size: 1.5em;
+	line-height: 1.2em;
+	display: block;
+  padding: 0.5rem 8px;
+  text-align: center;
+}
+.half{
+	float: left;
+	padding-bottom: 20px;
+	width: 50%;
+}
